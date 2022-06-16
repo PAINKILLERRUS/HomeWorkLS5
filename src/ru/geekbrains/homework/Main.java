@@ -1,7 +1,7 @@
 package ru.geekbrains.homework;
 
 import java.util.Arrays;
-
+//
 public class Main extends Threads implements Runnable{
     private static final int SIZE = 10_000_000;
     private static final int thCOUNT = 2;
